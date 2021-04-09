@@ -1,0 +1,26 @@
+26: B, F
+25: A, B, D, F, G
+24: B, D, F
+23: B, D, F, G
+22: B, D, F
+21: A, B, C, D, F, G
+20: B, D, F
+19: B, C, D, F, G
+18: B, F, G
+17: B, C, F, G
+16: B, F
+15: E, F, G
+14: F, G
+13: C, D, E, F, G
+12: D, F, G
+11: C, D, F, G
+10: E, F, G
+9: D, F
+8: D, F, G
+7: D, E, F, G
+6: D, F, G
+5: D, F, G 
+4: E, F, G
+3: F, G
+2: F, G 
+1: F, G
