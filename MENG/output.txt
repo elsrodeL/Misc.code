@@ -1,0 +1,20 @@
+2Theta = 40, d_spacing for (110) indicies are 0.1199463070509378 - (nm)
+Radius is 0.07345181220149843 (nm)
+
+
+2Theta = 55, d_spacing for (200) indicies are 0.09412172079350828 - (nm)
+Radius is 0.0815118012550842 (nm)
+
+
+2Theta = 75, d_spacing for (211) indicies are 0.0798197935096174 - (nm)
+Radius is 0.08466167589534065 (nm)
+
+
+2Theta = 85, d_spacing for (220) indicies are 0.07739450947459209 - (nm)
+Radius is 0.09478852855287441 (nm)
+
+
+2Theta = 100, d_spacing for (310) indicies are 0.07828939177639094 - (nm)
+Radius is 0.10720216472322193 (nm)
+
+
